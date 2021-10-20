@@ -21,12 +21,10 @@ _A website with interactive calculator application to make arithmetic calculatio
 * _Open index.html in your browser._
 * _Enter numbers prompted_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _Can't change between different functions yet._
 
 ## License
 
